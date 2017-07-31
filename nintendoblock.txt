@@ -1,0 +1,3 @@
+cbvc.cdn.nintendo.net
+nus.c.shop.nintendowifi.net
+nus.cdn.c.shop.nintendowifi.net
