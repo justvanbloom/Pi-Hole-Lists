@@ -1,4 +1,5 @@
 ad.71i.de
+ad.lgappstv.com
 ad.smartclip.net
 ad.sxp.smartclip.net
 ads01p.anixe.net
@@ -25,6 +26,7 @@ hbbtv.sixx.de
 hbbtv.zdf.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
+ibis.lgappstv.com
 itv.ard.de
 pagead2.googlesyndication.com
 redbutton-adproxy-lb-prod.redbutton.de
@@ -32,6 +34,9 @@ redbutton-lb-prod.redbutton.de
 redbutton.sim-technik.de
 scheduler.hbbtv.smartclip.net
 script.ioam.de
+smartclip.com
+smartclip.net
+smartshare.lgtvsdp.com
 start.digitaltext.rtl.de
 stats-irl.sxp.smartclip.net
 stats.hbbtv.smartclip.net
@@ -39,3 +44,4 @@ stats.smartclip.net
 www.etracker.de
 www.google-analytics.com
 www.rtl2.de
+yumenetworks.com
