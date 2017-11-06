@@ -1,7 +1,7 @@
 Meine Listen für [Pi-Hole](https://github.com/pi-hole/pi-hole).
 
 # Installation
-Folgt irgendwann. Inzwischen [gibts hier](https://www.google.de/search?q=pi-hole+liste+hinzufügen) Anleitungen.
+Einfach auf der [Pi-Hole Settings Seite](http://pi.hole/admin/settings.php) im Reiter "Pi-Hole's Block Lists" hinzufügen.
 
 # Listen
 ## Zum blockieren von Ads in Apps auf iOS und Android
@@ -16,3 +16,7 @@ Folgt irgendwann. Inzwischen [gibts hier](https://www.google.de/search?q=pi-hole
 `https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt`
 ## Zum blockieren von Werbung auf YouTube (Nicht sehr wirkungsvoll)
 `https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/youtube.txt`
+## Zum blockieren von Fake-Jailbreak-Webseiten (Domains von [The iPhone Wiki](https://www.theiphonewiki.com/wiki/Scam_Jailbreaks_and_Unlocks))
+`https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/jbfake.txt`
+## Zum blockieren von sonstigen Dingen die ich nirgends zuordnen konnte
+`https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt`
