@@ -11,6 +11,7 @@ aax-eu.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
 aax.amazon-adsystem.com
+abtest.mistat.xiaomi.com
 accesstrade.net
 ackak.com
 action.adzcore.com
@@ -133,8 +134,11 @@ amazemobilemedia.com
 amobee.com
 analytics.app-adforce.jp
 andomedia.com
+api.ad.xiaomi.com
 api.pubnative.net
 api.unthem.com
+app-adforce.jp
+app.top1mobiad1.com
 appads.com
 appflood.com
 applifier.com
@@ -230,6 +234,8 @@ emediate.se
 engine.a.redditmedia.com
 epom.com
 europacash.com
+events.appsflyer.com
+events3alt.adcolony.com
 everestads.net
 exelator.com
 exoclick.com
@@ -323,6 +329,7 @@ mob-server.com
 mobclix.com
 mobfox.com
 mobile.aws.weather.com
+mobileapptracking.com
 mobilefuse.com
 mobilefuse.net
 mobiletheory.com
@@ -419,6 +426,8 @@ sponsorpay.com
 startapp.com
 startappexchange.com
 startappservice.com
+stats.appsflyer.com
+stats.appwork.org
 stats.g.doubleclick.net
 stjjp.msn.com
 supersonicads.com
