@@ -52,6 +52,7 @@ adinch.com
 adinfuse.com
 adition.com
 adjuggler.net
+adjust.com
 adk2.co
 adk2x.com
 adkeeper.com
@@ -138,6 +139,7 @@ api.ad.xiaomi.com
 api.pubnative.net
 api.unthem.com
 app-adforce.jp
+app.adjust.com
 app.top1mobiad1.com
 appads.com
 appflood.com
@@ -191,6 +193,7 @@ cj.com
 clickfuse.com
 clickmngr.com
 clickterra.net
+client-api.matchinguu.com
 clk1004.com
 clkdeals.com
 clkmon.com
@@ -314,6 +317,7 @@ madsone.com
 madvertise.de
 manage.com
 marsads.com
+matchinguu.com
 mdotm.com
 media.net
 medialets.com

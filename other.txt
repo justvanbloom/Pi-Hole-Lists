@@ -17,6 +17,7 @@ api.userlike.com
 app.adjust.com
 assets.nvidiagrid.net
 badoocdn.com
+beacon.tapfiliate.com
 bestperforming.site
 bmcamgirl.com
 boards.4chan.org
@@ -41,6 +42,7 @@ extremetracking.com
 f.badoo.com
 famo.us
 fast.wistia.com
+fernseh.live
 fsad.trafficmanager.net
 googleads.g.doubleclick.net
 i.4cdn.org
@@ -49,6 +51,8 @@ images.nvidiagrid.net
 imgg-cdn.adskeeper.co.uk
 info-geschenke.com
 infolink.pavv.co.kr
+japancrate.refersion.com
+join.spyfam.com
 js.gleam.io
 jsc.adskeeper.co.uk
 livejasmin.com
@@ -79,6 +83,7 @@ spyoff.com
 spyoff.dislo.cloud
 static.exosrv.com.riil1na.belugacdn.com
 static.showheroes.com
+static.tapfiliate.com
 sunmaker-frontapi.cherrytech.com
 sunmaker.com
 syndication.exosrv.com
@@ -104,6 +109,7 @@ weserv.nl
 worldtimeserver.com
 ww3.performanceanalyser.net
 www.4chan.org
+www.affiliatly.com
 www.download-genius.com
 www.gaming-adult.com
 www.hentai-heroes.es
