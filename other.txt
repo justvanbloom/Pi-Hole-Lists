@@ -37,6 +37,7 @@ data.mistat.xiaomi.com
 data.otaserve.net
 downloads.expert
 echo.internetat.tv
+events.gfe.nvidia.com
 everyplay.com
 extremetracking.com
 f.badoo.com
@@ -44,6 +45,9 @@ famo.us
 fast.wistia.com
 fernseh.live
 fsad.trafficmanager.net
+gfe.geforce.com
+gfe.nvidia.com
+gfswl.geforce.com
 googleads.g.doubleclick.net
 i.4cdn.org
 ibunker.us
@@ -87,6 +91,8 @@ static.tapfiliate.com
 sunmaker-frontapi.cherrytech.com
 sunmaker.com
 syndication.exosrv.com
+telemetry.gfe.nvidia.com
+telemetry.nvidia.com
 time2play-online.net
 tipico.com
 tipico.de

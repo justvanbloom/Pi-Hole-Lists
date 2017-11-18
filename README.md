@@ -12,7 +12,7 @@ Einfach auf der [Pi-Hole Settings Seite](http://pi.hole/admin/settings.php) im R
 `https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/adobeblock.txt`
 ## Zum blockieren von Nintendo Updates (Wii U & 3DS)
 `https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nintendoblock.txt`
-## Zum blockieren von Tracking und Informationen, die Windows sammelt (Für Paranoide :P)
+## Zum blockieren von Tracking und Informationen, die Windows sammelt
 `https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt`
 ## Zum blockieren von Werbung auf YouTube (Nicht sehr wirkungsvoll)
 `https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/youtube.txt`

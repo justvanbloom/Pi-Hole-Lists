@@ -55,6 +55,5 @@ stats.hbbtv.smartclip.net
 stats.smartclip.net
 www.etracker.de
 www.google-analytics.com
-www.rtl2.de
 xpu.samsungelectronics.com
 yumenetworks.com
