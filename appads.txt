@@ -7,6 +7,7 @@
 4dsply.com
 578756.gameloft.com
 a.jumptap.com
+aatkit.com
 aax-eu.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
@@ -133,12 +134,14 @@ algovid.com
 altrooz.com
 amazemobilemedia.com
 amobee.com
+analytics-server.gimbal.com
 analytics.app-adforce.jp
 andomedia.com
 api.ad.xiaomi.com
 api.pubnative.net
 api.unthem.com
 app-adforce.jp
+app-measurement.com
 app.adjust.com
 app.top1mobiad1.com
 appads.com
@@ -151,6 +154,7 @@ apprupt.com
 appsdt.com
 appserver-ap.com
 appshelf.ttpsdk.info
+apptimize.com
 asp.animelab.com
 atdmt.com
 atedra.com
@@ -200,12 +204,14 @@ clkmon.com
 clkrev.com
 clmbtech.com
 cold-cold-freezing.com
+combine.urbanairship.com
 connect.decknetwork.net
 content-ad.net
 content.ad
 contentabc.com
 conversantmedia.com
 cpmstar.com
+crashlytics.com
 criteo.com
 criteo.net
 crosspromo.zeptolab.com
@@ -217,6 +223,7 @@ damoh.spiegel.de
 de17a.com
 delivery.brokerbabe.com
 delivery.trafficforce.com
+device-api.urbanairship.com
 directrev.com
 dlski.space
 dotandad.com
@@ -263,6 +270,7 @@ h2.msn.com
 heise.nuggad.net
 heyzap.com
 hkg1.aastocks.com
+hockeyapp.net
 holder.com.ua
 hot-mob.com
 hotwords.com
@@ -345,6 +353,7 @@ mojiva.com
 mopub.com
 movad.de
 movi11.com
+mparticle.com
 mpnrs.com
 msads.net
 mtburn.com
@@ -393,6 +402,7 @@ pubads.g.doubleclick.net
 pubdirecte.com
 pubmatic.com
 pushnative.com
+pushwoosh.com
 quantcount.com
 questionmarket.com
 rad.msn.com
@@ -415,6 +425,7 @@ s7.addthis.com
 sa.entireweb.com
 sbs-ad.com
 scanscout.com
+sdk-configuration.gimbal.com
 sekindo.com
 servedbyopenx.com
 serving-sys.com
@@ -444,6 +455,8 @@ teads.tv
 terraclicks.com
 test-ads.tapdaq.com
 tom.itv.com
+track.barcoo.com
+tracking.i2w.io
 tradeadexchange.com
 tradedoubler.com
 trafficfactory.biz
@@ -483,6 +496,7 @@ weblockapp.com
 widespace.com
 wigetmedia.com
 wwwpromoter.com
+wywy.com
 ximad.com
 xtendmedia.com
 yen.appsfire.net
