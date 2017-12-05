@@ -1,6 +1,8 @@
 0i0i0i0.com
 4cdn.org
 4chan.org
+ad.dl.mainpost.de
+ad14.dl.mainpost.de
 ad4game.com
 admanager.pushfire.de
 ads.exosrv.com
@@ -12,6 +14,7 @@ adworldmedia.com
 aem.playstation.com.ssl.d1.sc.omtrdc.net
 analytics.moviepilot.de
 analytics.plex.tv
+angebote.mainpost.de
 anonym.bplaced.net
 anonymousdemographics.com
 api-01.360dialog.io
@@ -69,6 +72,7 @@ join.spyfam.com
 js.gleam.io
 jsc.adskeeper.co.uk
 jsecoin.com
+kampagne.mainpost.de
 listat.biz
 livejasmin.com
 lmodr.biz
