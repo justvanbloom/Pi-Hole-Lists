@@ -81,6 +81,7 @@ adocean.pl
 adorika.net
 adotube.com
 adpdx.com
+adproxy.fyber.com
 adroll.com
 adrotator.se
 ads.flurry.com
@@ -131,12 +132,14 @@ airpush.com
 akncdn.com
 alea.adam.daum.net
 algovid.com
+alphonso.tv
 altrooz.com
 amazemobilemedia.com
 amobee.com
 analytics-server.gimbal.com
 analytics.app-adforce.jp
 andomedia.com
+api-02.360dialog.io
 api.ad.xiaomi.com
 api.pubnative.net
 api.unthem.com
@@ -169,11 +172,13 @@ bcfads.com
 bead-ad.com
 beap-bc.yahoo.com
 bebi.com
+bestmobileapps.mobi
 bidvertiser.com
 billytesting.com
 bms.zeptolab.com
 bnmla.com
 bnserving.com
+boostads.site
 bounceexchange.com
 brightroll.com
 brightroll.de
@@ -251,6 +256,7 @@ exelator.com
 exoclick.com
 exponential.com
 eyewonder.com
+farmheroesmobile.king.com
 fastclick.net
 firstimpression.io
 flashtalking.com
@@ -456,6 +462,7 @@ terraclicks.com
 test-ads.tapdaq.com
 tom.itv.com
 track.barcoo.com
+tracker.fyber.com
 tracking.i2w.io
 tradeadexchange.com
 tradedoubler.com
@@ -495,6 +502,8 @@ wbdds.jeuxvideo.com
 weblockapp.com
 widespace.com
 wigetmedia.com
+www.alphonso.tv
+www.bestmobileapps.mobi
 wwwpromoter.com
 wywy.com
 ximad.com
