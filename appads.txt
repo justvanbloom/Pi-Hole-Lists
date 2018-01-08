@@ -134,6 +134,7 @@ alea.adam.daum.net
 algovid.com
 alphonso.tv
 altrooz.com
+am.myapps123.com
 amazemobilemedia.com
 amobee.com
 analytics-server.gimbal.com
@@ -222,6 +223,7 @@ criteo.net
 crosspromo.zeptolab.com
 crwdcntrl.net
 cubecdn.net
+cw.addthis.com
 cxense.com
 cxpublic.com
 damoh.spiegel.de
@@ -258,6 +260,7 @@ exponential.com
 eyewonder.com
 farmheroesmobile.king.com
 fastclick.net
+fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 firstimpression.io
 flashtalking.com
 flipboard.com
@@ -265,12 +268,14 @@ fus.yad2.co.il
 fusion.dn.se
 fwmrm.net
 fyber.com
+gce-sc.bidswitch.net
 gemini.yahoo.com
 globaltraffico.com
 googleads.g.doubleclick.net
 googleadservices.com
 googletagservices.com
 greystripe.com
+growingtechapp.bid
 gumgum.com
 h2.msn.com
 heise.nuggad.net
@@ -281,6 +286,7 @@ holder.com.ua
 hot-mob.com
 hotwords.com
 houseads.ttpsdk.info
+housextriertst.bid
 i-stream.pl
 iconpeak.com
 igp06.gameloft.com
@@ -368,6 +374,7 @@ n208adserv.com
 nexage.com
 nspmotion.com
 nuggad.net
+omax.admarvel.com
 omniture.com
 onclasrv.com
 onclickads.net
@@ -382,6 +389,7 @@ openx.org
 openxenterprise.com
 openxmarket.jp
 opt.ximad.com
+ordickywarive.bid
 otherlevels.com
 ox-d.advanceweb.com
 ox-d.majorgeeks.com
@@ -460,6 +468,7 @@ tapjoyads.com
 teads.tv
 terraclicks.com
 test-ads.tapdaq.com
+thekingofmobapp.bid
 tom.itv.com
 track.barcoo.com
 tracker.fyber.com
@@ -486,6 +495,7 @@ uimserv.net
 ultraadserver.com
 unityads.unity3d.com
 untd.com
+uop.umeng.com
 upsight-api.com
 user-agent-tracker.herokuapp.com
 valuecommerce.com
@@ -504,6 +514,8 @@ widespace.com
 wigetmedia.com
 www.alphonso.tv
 www.bestmobileapps.mobi
+www.fqtag.com
+www.onclickclear.com
 wwwpromoter.com
 wywy.com
 ximad.com
