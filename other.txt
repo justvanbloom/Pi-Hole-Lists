@@ -71,6 +71,7 @@ generaed.info
 gfe.geforce.com
 gfe.nvidia.com
 gfswl.geforce.com
+gfwsl.geforce.com
 go.xxxtraffics.com
 godinworld.com
 googleads.g.doubleclick.net
@@ -110,9 +111,12 @@ news-video-stream.plex.tv
 news.provider.plex.tv
 normalexchange.com
 ns11.whois.co.kr
+nvda.d2.sc.omtrdc.net
+nvidia.tt.omtrdc.net
 oasgames.com
 offergold.online
 passport.oasgames.com
+picload.org
 proton.flurry.com
 pxl.trafficstars.com
 reasedoper.pw
