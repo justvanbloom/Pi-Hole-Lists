@@ -44,8 +44,6 @@ cdn.ichwuerde.com
 chainblock.science
 chancesaregifts.stream
 cloudlocker.biz
-coin-hive.com
-coinhive.com
 config.unityads.unity3d.com
 crashlytics.com
 crypto-loot.com
@@ -71,7 +69,6 @@ generaed.info
 gfe.geforce.com
 gfe.nvidia.com
 gfswl.geforce.com
-gfwsl.geforce.com
 go.xxxtraffics.com
 godinworld.com
 googleads.g.doubleclick.net
