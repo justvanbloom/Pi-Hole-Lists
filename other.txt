@@ -25,10 +25,12 @@ anonymousdemographics.com
 api-01.360dialog.io
 api.360dialog.io
 api.freewebfonts.org
+api.leanplum.com
 api.userlike.com
 app.adjust.com
 assets.nvidiagrid.net
 badoocdn.com
+battleforthenet.com
 beacon.tapfiliate.com
 bestperforming.site
 bmcamgirl.com
@@ -54,6 +56,7 @@ data.mistat.xiaomi.com
 data.otaserve.net
 dc.trafficmanager.net
 de.nametests.com
+de.vonvon.me
 difficero.com
 downloads.expert
 echo.internetat.tv
@@ -165,6 +168,7 @@ vavoo.tv
 vebadu.com
 videos.kino.de
 visitor-language.herokuapp.com
+vonvon.me
 vungle.com
 vvd-emp-prd.s3.amazonaws.com
 webview.unityads.unity3d.com
@@ -173,6 +177,7 @@ worldtimeserver.com
 ww3.performanceanalyser.net
 www.4chan.org
 www.affiliatly.com
+www.battleforthenet.com
 www.download-genius.com
 www.ehlnakqlcvuxk.bid
 www.gaming-adult.com
@@ -185,6 +190,7 @@ www.lead-alliance.net
 www.oasgames.com
 www.pcfreetime.com
 www.schutzklick.de
+www.spielkorb.com
 www.spooner-motorsport.com
 www.spyoff.com
 www.sunmaker.com
