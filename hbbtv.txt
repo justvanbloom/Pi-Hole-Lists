@@ -15,7 +15,6 @@ cdn.smartclip.net
 database01p.anixe.net
 de.ioam.de
 fkp.samsungcloudsolution.com
-flingo.tv
 hbbtv-1.eurosport.com
 hbbtv-extern-fe01.sim-technik.de
 hbbtv-track.redbutton.de
@@ -43,8 +42,6 @@ prov.samsungcloudsolution.com
 redbutton-adproxy-lb-prod.redbutton.de
 redbutton-lb-prod.redbutton.de
 redbutton.sim-technik.de
-samba-trending-homepage.samba.tv
-samba.tv
 samsungotn.net
 samsungrm.net
 scheduler.hbbtv.smartclip.net
@@ -53,12 +50,10 @@ smartclip.com
 smartclip.net
 smartshare.lgtvsdp.com
 start.digitaltext.rtl.de
-static.flingo.tv
 stats-irl.sxp.smartclip.net
 stats.hbbtv.smartclip.net
 stats.smartclip.net
 www.etracker.de
 www.google-analytics.com
-www.samba.tv
 xpu.samsungelectronics.com
 yumenetworks.com
