@@ -84,6 +84,7 @@ adpdx.com
 adproxy.fyber.com
 adroll.com
 adrotator.se
+ads.api.vungle.com
 ads.flurry.com
 ads.tapdaq.com
 ads.yahoo.com
@@ -211,6 +212,7 @@ clkrev.com
 clmbtech.com
 cold-cold-freezing.com
 combine.urbanairship.com
+config.inmobi.com
 connect.decknetwork.net
 content-ad.net
 content.ad
