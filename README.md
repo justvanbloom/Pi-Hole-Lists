@@ -10,7 +10,7 @@ Einfach auf der [Pi-Hole Settings Seite](http://pi.hole/admin/settings.php?tab=b
 `https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/hbbtv.txt`
 ## Zum blockieren von Adobe Updates (Photoshop & co.)
 `https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/adobeblock.txt`
-## Zum blockieren von Nintendo Updates (Wii U & 3DS)
+## Zum blockieren von Nintendo System-Updates (3DS/Wii U/Switch)
 `https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nintendoblock.txt`
 ## Zum blockieren von Tracking und Informationen, die Windows sammelt
 `https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt`
