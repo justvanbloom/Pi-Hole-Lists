@@ -30,9 +30,11 @@ api-01.360dialog.io
 api.360dialog.io
 api.freewebfonts.org
 api.leanplum.com
+api.opencandy.com
 api.userlike.com
 app.adjust.com
 appsettings.freemake.com
+arcadefrontier.com
 assets.nvidiagrid.net
 auskunft.de
 badoocdn.com
@@ -51,7 +53,9 @@ canary.trafficmanager.net
 cdn.adskeeper.co.uk
 cdn.ageofmusketeers.com
 cdn.ichwuerde.com
+cdn.opencandy.com
 cdn.pricespider.com
+cdn.putono5.com
 cdn3.cpmstar.com
 chainblock.science
 chancesaregifts.stream
@@ -121,6 +125,7 @@ lmodr.biz
 log.otaserve.net
 mataharirama.xyz
 mazu.sec.miui.com
+media.opencandy.com
 mediapalmtree.com
 mesu.apple.com
 minecrunch.co
@@ -186,6 +191,8 @@ track.cam4tracking.com
 track.eatmytracker.com
 tracking.bbatrck2.com
 tracking.miui.com
+tracking.opencandy.com
+tracking.opencandy.com.s3.amazonaws.com
 traffic.tc-clicks.com
 trafficjunky.com
 trafficjunky.net
@@ -210,6 +217,7 @@ worldtimeserver.com
 ww3.performanceanalyser.net
 www.4chan.org
 www.affiliatly.com
+www.arcadefrontier.com
 www.auskunft.de
 www.battleforthenet.com
 www.bullads.net
