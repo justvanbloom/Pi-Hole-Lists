@@ -20,6 +20,7 @@ ad-center.com
 ad-stir.com
 ad-sys.com
 ad.adworx.at
+ad.fyber.angsrvr.com
 ad.prismamediadigital.com
 ad120m.com
 ad127m.com
@@ -161,6 +162,7 @@ appserver-ap.com
 appshelf.ttpsdk.info
 apptimize.com
 asp.animelab.com
+asset1.sponsorpay.com
 atdmt.com
 atedra.com
 atemda.com
@@ -229,6 +231,7 @@ cw.addthis.com
 cxense.com
 cxpublic.com
 damoh.spiegel.de
+de.reimageplus.com
 de17a.com
 delivery.brokerbabe.com
 delivery.trafficforce.com
@@ -251,6 +254,7 @@ emediate.dk
 emediate.eu
 emediate.se
 engine.a.redditmedia.com
+engine.fyber.com
 epom.com
 europacash.com
 events.appsflyer.com
@@ -340,6 +344,7 @@ madvertise.de
 manage.com
 marsads.com
 matchinguu.com
+mbe-cdn.fyber.com
 mdotm.com
 media.net
 medialets.com
@@ -504,6 +509,7 @@ valuecommerce.com
 vaxadserver.azurewebsites.net
 vdopia.com
 veeseo.com
+video.fyber.com
 videoplaza.com
 videoplaza.tv
 vserv.mobi
