@@ -6,6 +6,7 @@ aax-us-east.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
 acroscow.com
 activation.freemake.com
+ad-panda.net
 ad.dl.mainpost.de
 ad14.dl.mainpost.de
 ad4game.com
@@ -60,6 +61,7 @@ bilder.bild.de
 bmcamgirl.com
 boards.4chan.org
 broced.co
+bts.stroeermediabrands.de
 bullads.net
 c.otaserve.net
 callback.inopla.de
@@ -68,6 +70,8 @@ canary.trafficmanager.net
 cdn.adskeeper.co.uk
 cdn.ageofmusketeers.com
 cdn.discordapp.com
+cdn.embed.ly.cdn.cloudflare.net
+cdn.embedly.com
 cdn.granify.com
 cdn.granify.netdna-cdn.com
 cdn.ichwuerde.com
@@ -99,9 +103,11 @@ desktop-adv-banners.freemake.com
 device-metrics-us.amazon.com
 difficero.com
 discordapp.com
+dkuim.de
 downloads.expert
 echo.internetat.tv
 eki.trafficsan.com
+embedly.com
 events.gfe.nvidia.com
 everyplay.com
 extremetracking.com
@@ -149,8 +155,10 @@ js.hsforms.net
 jsc.adskeeper.co.uk
 jsecoin.com
 kampagne.mainpost.de
+katie.runtnc.net
 kueez.com
 landings.ichwuerde.de
+linksave.in
 listat.biz
 livejasmin.com
 lmodr.biz
@@ -187,7 +195,9 @@ popads.media
 posts-cdn.kueez.com
 proton.flurry.com
 pxl.trafficstars.com
+quiz.stroeermediabrands.de
 reasedoper.pw
+redirect.ad-panda.net
 redirect.auskunft.de
 reimageplus.com
 reports.crashlytics.com
@@ -224,6 +234,7 @@ taschengeld.com
 telemetry.gfe.nvidia.com
 telemetry.nvidia.com
 teleport.soom.la
+thevpndeal.download
 thumbcon.mydirtyhobby.com
 time2play-online.net
 tipico.com
@@ -259,6 +270,7 @@ vonvon.me
 vungle.com
 vvd-emp-prd.s3.amazonaws.com
 web.addealsnetwork.com
+webimg.secondhandapp.com
 webview.unityads.unity3d.com
 weequizz.com
 weserv.nl
